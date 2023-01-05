@@ -1,3 +1,3 @@
-# KaniyamDigitalArchive
+# Kaniyam Digital Archive
 DigitalArchive
 A digital archive is a collection of digital materials, like documents, images, audio files, and videos, that's organized and preserved for long-term access. It can be created by individuals, organizations, or institutions and can include features like search, metadata tagging, and version control to facilitate access. Digital archives can be hosted on various platforms and may include tools for preservation and access, such as backup systems and migration tools. Digital archives are valuable resources for researchers and others who need access to digital content over the long term
